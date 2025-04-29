@@ -1,1 +1,2 @@
-# PDF-Text-Summarizer
+PDF Text Summarizer is a Python-based tool designed to automatically extract text from PDF documents and generate concise, meaningful summaries using Natural Language Processing (NLP) techniques. It aims to help users save time by quickly understanding the core content of large or complex PDF files, such as research papers, reports, and articles.
+The summarizer can handle multi-page documents, filter out non-text elements, and produce either extractive or abstractive summaries (depending on the method you use). This makes it especially useful for students, researchers, and professionals who regularly deal with long-form content.
